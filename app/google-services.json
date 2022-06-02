@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383153949885",
+    "project_id": "tochsm-cb15f",
+    "storage_bucket": "tochsm-cb15f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383153949885:android:b64c7ab7897870e381bbd4",
+        "android_client_info": {
+          "package_name": "com.example.tochsm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383153949885-sr3dbrilk0ot29ab5b4amsqc7jumgvpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaynhIBZRWsGj71jxEvhqe77uloqwi_mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383153949885-sr3dbrilk0ot29ab5b4amsqc7jumgvpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
